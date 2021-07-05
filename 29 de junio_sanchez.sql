@@ -1,0 +1,13 @@
+USE EXAMEN; 
+SHOW TABLES; 
+SHOW COLUMNS FROM ESTUDIANTE; 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (1, "Juan", "Perez", "8", "1A"); 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (2, "Sol", "Gonzalez", "10", "2B"); 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (3, "Daniel", "Aramburu", "6", "3A");
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (4, "Jose", "Lopez", "4", "1B"); 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (5, "Marta", "Caceres", "5", "2A");
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (6, "Ivan", "Suarez", "7", "5A");
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (7, "Ruben", "Pasteur", "3", "5B"); 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (8, "Pablo", "Pagani", "9", "6B"); 
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (9, "Susana", "Romero", "8", "6B");
+INSERT INTO estudiante (idest, nombre, apellido, nota, curso) VALUES (10, "Maria", "Lujan", "10", "4A"); 
